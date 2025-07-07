@@ -11,3 +11,5 @@ __pycache__
 *.DS_Store
 /static/__pycache__
 /static/*.log
+.venv
+.idea
