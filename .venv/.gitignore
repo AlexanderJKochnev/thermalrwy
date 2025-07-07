@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+*.log
+*.swp
+*.swo
+*.DS_Store
+/static/__pycache__
+/static/*.log
